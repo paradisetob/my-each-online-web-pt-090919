@@ -3,3 +3,4 @@ def my_each(collection)
   my_collection (collection) do |i|
     puts i
  end
+end
